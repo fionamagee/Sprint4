@@ -1,0 +1,15 @@
+body { /* Overall changes to style */
+     background-image: linear-gradient(#afdef2ff, white);
+  }
+  
+#title{ /* Title modifcations with placement, color, and font */
+    color:rgba(41, 41, 49, 0.804);
+    text-align: center;
+    background-color: gray;
+    font-family: 'Bodoni MT', 'Bodoni 72', serif;
+}
+
+#body{ /* Body paragraph modifcations with color and font */
+    text-align: center;
+    font-family: 'Bodoni MT', 'Bodoni 72', serif;
+}
